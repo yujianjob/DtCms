@@ -64,3 +64,14 @@ E:\study\DTCms\DTcms.DAL\bin\Debug\DTcms.Model.pdb
 E:\study\DTCms\DTcms.DAL\obj\Debug\DTcms.DAL.csprojResolveAssemblyReference.cache
 E:\study\DTCms\DTcms.DAL\obj\Debug\DTcms.DAL.dll
 E:\study\DTCms\DTcms.DAL\obj\Debug\DTcms.DAL.pdb
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.DAL.dll
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.DAL.pdb
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.Common.dll
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.DBUtility.dll
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.Model.dll
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.Common.pdb
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.DBUtility.pdb
+E:\git\dtCms\DTcms.DAL\bin\Debug\DTcms.Model.pdb
+E:\git\dtCms\DTcms.DAL\obj\Debug\DTcms.DAL.csprojResolveAssemblyReference.cache
+E:\git\dtCms\DTcms.DAL\obj\Debug\DTcms.DAL.dll
+E:\git\dtCms\DTcms.DAL\obj\Debug\DTcms.DAL.pdb

@@ -40,3 +40,10 @@ E:\study\DTCms\DTcms.Model\bin\Debug\DTcms.Common.pdb
 E:\study\DTCms\DTcms.Model\obj\Debug\DTcms.Model.csprojResolveAssemblyReference.cache
 E:\study\DTCms\DTcms.Model\obj\Debug\DTcms.Model.dll
 E:\study\DTCms\DTcms.Model\obj\Debug\DTcms.Model.pdb
+E:\git\dtCms\DTcms.Model\bin\Debug\DTcms.Model.dll
+E:\git\dtCms\DTcms.Model\bin\Debug\DTcms.Model.pdb
+E:\git\dtCms\DTcms.Model\bin\Debug\DTcms.Common.dll
+E:\git\dtCms\DTcms.Model\bin\Debug\DTcms.Common.pdb
+E:\git\dtCms\DTcms.Model\obj\Debug\DTcms.Model.csprojResolveAssemblyReference.cache
+E:\git\dtCms\DTcms.Model\obj\Debug\DTcms.Model.dll
+E:\git\dtCms\DTcms.Model\obj\Debug\DTcms.Model.pdb
